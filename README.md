@@ -6,20 +6,20 @@
 
 ### Key Features:
 
-<p>○ Multi-Page Scraping: Automatically traverses through multiple pages of a product category to collect data, ensuring you get information from all available listings.
+<h4>○ Multi-Page Scraping:</h4> <p>Automatically traverses through multiple pages of a product category to collect data, ensuring you get information from all available listings.</p>
   
-○ Detailed Data Extraction: Retrieves essential product details including names, original prices, current prices, product links, and image URLs.
+<h4>○ Detailed Data Extraction:</h4> <p>Retrieves essential product details including names, original prices, current prices, product links, and image URLs.</p>
 
-○ Error Handling: Includes robust error handling to manage HTTP errors and missing pages, ensuring smooth and reliable data collection.
+<h4>○ Error Handling:</h4> <p>Includes robust error handling to manage HTTP errors and missing pages, ensuring smooth and reliable data collection.</p>
 
-○ Customizable Delays: Implements adjustable delays between requests to prevent overloading the server and to mimic human browsing behavior.</p><hr><br>
+<h4>○ Customizable Delays:</h4> <p>Implements adjustable delays between requests to prevent overloading the server and to mimic human browsing behavior.</p><hr><br>
 
 ### How It Works:
 
-<p>○ Navigates Pages: Begins at the first page and sequentially moves through all pages of the product category until no more pages are found.
+<h4>○ Navigates Pages:</h4> <p>Begins at the first page and sequentially moves through all pages of the product category until no more pages are found.</p>
   
-○ Extracts Product Details: Parses each page to extract and compile product names, pricing information, links, and images into structured data.
+<h4>○ Extracts Product Details:</h4> <p>Parses each page to extract and compile product names, pricing information, links, and images into structured data.</p>
 
-○ Saves Data: Stores the collected data in an organized Excel file for easy access and analysis.</p><hr><br>
+<h4>○ Saves Data:</h4> <p>Stores the collected data in an organized Excel file for easy access and analysis.</p><hr><br>
 
 <p>Perfect for researchers, data analysts, and e-commerce enthusiasts looking to gather and analyze product data from online stores.</p>
